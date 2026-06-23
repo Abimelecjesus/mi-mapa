@@ -1,0 +1,1 @@
+window.GM_LAYER_1 = {"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"coordinates": [-72.351092, -36.833159, 0.0], "type": "Point"}, "properties": {"name": "Descarga_PTAS_SantaClara", "x": 736227, "y": 5920361, "_gm": {"fill": "#8d5a99", "fillOpacity": 1.0, "stroke": "#232323", "weight": 1, "opacity": 1.0, "radius": 4}}}]};
